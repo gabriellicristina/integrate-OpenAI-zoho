@@ -1,7 +1,12 @@
 # integrate-OpenAI-zoho
 
 ## Zoho Cliq + OpenAI Assistant Integration
-Este repositório contém meu código para integrar o Zoho Cliq com o ChatGPT Assistant da OpenAI. Com essa integração, o ChatGPT responde diretamente em um chat do Zoho Cliq, tornando a comunicação mais ágil e melhorando o acesso a informações tanto para desenvolvedores Zoho quanto para novos colaboradores.
+Este repositório contém um código construido para integrar o Zoho Cliq com o ChatGPT Assistant da OpenAI. Com essa integração, o ChatGPT responde diretamente em um chat do Zoho Cliq, tornando a comunicação mais ágil e melhorando o acesso a informações tanto para desenvolvedores Zoho quanto para novos colaboradores.
+
+Utilizei essa documentação para consulta:
+https://club.zenatta.com/c/code-share/connect-an-open-ai-assistant-to-a-cliq-bot
+
+Realizei algumas mudança pois não utilizei o Zoho Flow.
 
 ## Objetivo
 Essa integração automatiza a troca de mensagens entre o Zoho Cliq e o ChatGPT Assistant, oferecendo:
